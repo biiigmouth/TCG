@@ -1,0 +1,4 @@
+# TCG
+TCG Homeworks
+
+NYCU 2022 FALL TCG
